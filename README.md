@@ -52,13 +52,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="left">
-  <img src="https://github-trophies.vercel.app/?username=manh21082002&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
----
-
 ## 📌 Quote of the Day
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
@@ -66,13 +59,3 @@
 
 ---
 
-## 😂 Dev Meme
-<p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="512px"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=manh21082002&icon=0&color=0" alt="Profile Visit Count"/>
-</p>
