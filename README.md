@@ -1,61 +1,100 @@
-<h1 align="center">Hi there, I'm Mạnh Nguyễn Huy 👋</h1>
-<p align="center">🎓 Data Science & AI Enthusiast | 🐍 Python Developer | 🛠️ Problem Solver | 🌐 Tech Explorer</p>
+# 👋 Hi, I'm Nguyen Huy Manh
+
+🎓 **Artificial Intelligence Major | Data Scientist | AI Engineer**  
+💡 Passionate about leveraging AI to solve real-world problems, especially in financial forecasting, computer vision, and automation.
 
 ---
 
-## 🌐 Connect with Me
-<p align="left">
-  <a href="https://facebook.com/nguyen.huymanh.161" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.linkedin.com/in/m%E1%BA%A1nh-nguy%E1%BB%85n-huy-b6ba89269/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+## 🧠 About Me
+
+I am a final-year student at **Thang Long University**, majoring in **Artificial Intelligence**, with strong experience in **data engineering**, **machine learning**, and **deep learning**. I’ve worked across various domains, including **algorithmic trading**, **image processing**, and **real-time AI systems**.
+
+I thrive on turning data into actionable insights and building scalable AI systems that make an impact.
+
+- 🔭 Currently working at **BEATVN** as a **Data Analyst & Data Engineer**
+- 🧠 Former **Quantitative Researcher** at **Finpros**
+- 🤖 Former **AI Researcher** at **Thang Long AI Lab**
+- 📈 Published research accepted at the **6th International Conference on AI & Computational Intelligence (AICI 2025)**
 
 ---
 
-## 💻 Tech Stack
-<p align="left">
-  <b>Languages & Frameworks:</b><br>
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-  
-  <br><b>Data & ML:</b><br>
-  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+## 💼 Work Experience
 
-  <br><b>Deep Learning:</b><br>
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+### 🔹 BEATVN | Data Analyst & Data Engineer (07/2024 – Now)
+- Designed database systems for business KPIs, social media analytics, and P&L metrics.
+- Developed automated pipelines to integrate data from multiple social platforms into a centralized warehouse.
+- Built interactive dashboards and presented insights to stakeholders monthly.
+- Supported cross-functional teams (HR, branding) with analytical solutions.
 
-  <br><b>Databases:</b><br>
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+### 🔹 Finpros | Quantitative Researcher (11/2023 – 06/2024)
+- Developed over 40 algorithmic trading strategies using technical and macroeconomic indicators.
+- Applied ML models (e.g. XGBoost, LSTM) for high-volatility market forecasting.
+- Focused on risk-adjusted return metrics and backtesting.
 
-  <br><b>Tools & Platforms:</b><br>
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-</p>
+### 🔹 Thang Long AI Lab | Data Scientist (11/2023 – 10/2024)
+- Created a 24/7 AI-powered Forex trading system using RNN, LSTM, and Transformer models.
+- Evaluated strategies using Sharpe Ratio, Maximum Drawdown, etc.
+- Research recognized at AICI 2025.
 
 ---
 
-## 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=manh21082002&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manh21082002&theme=radical&hide_border=false" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manh21082002&layout=compact&theme=radical&hide_border=false" alt="Top Languages"/>
-</p>
+## 🚀 Projects
+
+### 🖼️ AI-Powered Food Image Search System
+> [🔗 GitHub Repo](https://github.com/manh21082002/image-search-ai)
+
+- Built object detection with **YOLO**, **R-CNN** for food recognition.
+- Used **FAISS** for vector-based similarity search.
+- Developed a modular **FastAPI** + **Jinja2** web app with Docker deployment.
+
+**Tech Stack:** Python, FastAPI, YOLO, R-CNN, FAISS, Docker, Jinja2
 
 ---
 
-## 📌 Quote of the Day
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-</p>
+### 👁️ Real-Time Face Detection and Recognition
+> [🔗 GitHub Repo](https://github.com/manh21082002/yolov10-and-facenet-pytorch)
+
+- Combined **YOLOv10** for face detection and **FaceNet** for recognition.
+- Enabled real-time webcam-based recognition and custom dataset creation.
+
+**Tech Stack:** Python, PyTorch, YOLOv10, FaceNet, OpenCV
 
 ---
+
+## 🧰 Tech Stack
+
+**Languages & Tools**  
+Python, SQL, Git, Docker, N8N
+
+**Frameworks & Libraries**  
+PyTorch, TensorFlow, FastAPI, Scikit-Learn, Pandas, NumPy, OpenCV, Matplotlib
+
+**Database & BI Tools**  
+MySQL, SQL Server, Power BI, Looker Studio
+
+---
+
+## 📜 Education
+
+**🎓 Thang Long University** (09/2021 – 10/2024)  
+Major: Artificial Intelligence  
+GPA: 8.09 / 10  
+Credits: 145
+
+**🎓 MindX School of Technology** (09/2022 – 06/2023)  
+Certified Data Analyst (4/4 Modules)
+
+---
+
+## 🔗 Contact & Socials
+
+- 📧 Email: [manh21082002@gmail.com](mailto:manh21082002@gmail.com)
+- 📞 Phone: +84 985 028 676
+- 📍 Location: Thanh Xuân, Hà Nội, Vietnam
+- 🌐 GitHub: [github.com/manh21082002](https://github.com/manh21082002)
+- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/m%E1%BA%A1nh-nguy%E1%BB%85n-huy-b6ba89269/)
+
+---
+
+> “In God we trust. All others must bring data.” – W. Edwards Deming
 
